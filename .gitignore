@@ -1,2 +1,3 @@
 .DS_Store
+*.db
 .ipynb_checkpoints
