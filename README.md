@@ -2,7 +2,7 @@ Exploratory Data Analysis on a Brazilian e-commerce public dataset of orders mad
 
 [This dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) is generously provided by Olist on Kaggle.
 
-### Business question : Which products categories are the most prone to customer insatisfaction?
+## Which products categories are the most prone to customer insatisfaction?
 
 The analysis can be found in this [Jupyter Notebook file](https://github.com/tindaro-adamo/olist-ecommerce-data-analysis/blob/main/python/reviews.ipynb).
 <br><br>
